@@ -23,7 +23,7 @@ public class KlasaTestowa {
         listaZwierzat.add(new Cat());
         listaZwierzat.add(new Cat());
 
-       //dajGlosyDlaTablicyZwierzat(zwierzeta);
+       dajGlosyDlaTablicyZwierzat(zwierzeta);
        dajGlosyDlaListyZwierzat(listaZwierzat);
     }
     

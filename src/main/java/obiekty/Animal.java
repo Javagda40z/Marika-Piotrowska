@@ -1,6 +1,6 @@
 package obiekty;
 
-public interface Animal {
+public interface Animal extends Movable {
 
     // kazde zwierze bedzie implementowac makeSound -
     // czyli kazde zwierze bedzie mialo dzwiek - to jest interfejs - nie ma ciala metody czyli nie ma przepisu jak wydaje dzwiek
