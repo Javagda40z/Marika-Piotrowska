@@ -34,4 +34,16 @@ public class Ciagi {
         return ciag;
     }
 
-}
+//    public static boolean sprawdzCzyCiagJestArytmetyczny(List<Integer> ciag) {
+//
+//        for(int i = 1; i + 1 < ciag.size(); i++) {
+//            if((ciag.get(i-1) + ciag.get(i+1))/2 != ciag.get(i)) {
+//                return false;
+//            }
+//            return true;
+//
+//        }
+
+    }
+
+
